@@ -1,0 +1,9 @@
+.align-date{
+    font-size: 14px;
+    width: 88%;
+}
+
+.overflow{
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
